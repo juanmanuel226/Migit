@@ -1,2 +1,2 @@
 # Migit
-Mi git
+Mi git, es un repositorio con fines practicos.
